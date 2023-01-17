@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667022911 source:d:\sp-cse 121 & 122\assignment\lab assignment 2\printing_1_square_to_n_square\main.c
+	<stdio.h>
+	<stdlib.h>
+
